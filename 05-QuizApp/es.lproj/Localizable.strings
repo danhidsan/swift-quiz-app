@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  05-QuizApp
+
+  Created by Daniel Hidalgo on 25/06/2020.
+  Copyright © 2020 HSN. All rights reserved.
+*/
+"game.over.text" = "Fin del juego";
+"game.over.message1" = "Has acertado";
+"game.over.message2" = "de";
+"success.text" = "Correcto";
+"incorrect.text" = "Incorrecto";
+"score.text" = "Puntuación: ";
+"accept.text" = "Aceptar";
+"answer.placeholder" = "Aqui va la respuesta";
+
+
